@@ -234,7 +234,7 @@ def menu():
 	os.system('clear')
 	jalan("[]SILAHKAN MASUKKAN USERNAME UNTUK MELANJUTKAN\n")
 	username = input("[] USERNAME \033[1;91m: \033[1;92m")
-	if username =="BAZ":
+	if username =="BAZFREE":
 		print("[] BERHASIL MASUK")
 		time.sleep(1)
 		login()
